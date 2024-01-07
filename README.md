@@ -1,5 +1,5 @@
 # Analytics
-Integrated Business Excellence :) Finance, Sales, Marketing, Supply Chain Synergy 
+Integrated Business Excellence :) Finance
 
 **Finance Data Analysis:**
 Analyze financial statements and performance metrics.
